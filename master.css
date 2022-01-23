@@ -1,0 +1,60 @@
+.body {
+
+}
+
+.passwordForm {
+  font-family: monospace;
+  color: rgb(0 245 0);
+  background-color: rgb(0 0 40);
+  margin: 0;
+  padding: 5px 10px;
+  max-width: 350px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 0.2), 0 4px 4px 0 rgb(0 0 0 / 0.2);
+}
+
+.choice {
+  margin: 20px 20px;
+  padding: 0;
+}
+
+.output {
+  text-align: center;
+  margin: 20px;
+}
+
+.password {
+  color: rgb(245 245 245);
+}
+
+.slider {
+  background-color: rgb(0 0 40);
+  color: rgb(245 245 245);
+  border: none;
+  width: 40px;
+}
+
+.error {
+  margin: 10px 0;
+  color: rgb(245 0 0);
+}
+
+.button {
+  width: 300px;
+  max-width: 100%;
+  background-color: rgb(0 245 0);
+  color: rgb(0 0 40);
+  border: none;
+  padding: 5px 0;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+}
