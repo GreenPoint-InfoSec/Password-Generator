@@ -19,3 +19,10 @@ To include lower, upper, numbers, special character:
     python3 passwordGen.py 10 5 0 1 1 0
 
 5 passwords, 10 characters long, using upper case and numbers
+
+
+## HTML,PHP,CSS
+
+Copy files to any web server directory
+
+Visit domain, insert integers for length and amount, checkboxes for lower, upper, numbers, special character.
