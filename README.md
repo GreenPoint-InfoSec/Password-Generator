@@ -1,5 +1,7 @@
 # Password-Generator
 
+## Python
+
     python3 passwordGen.py <length> <amount> <lower> <upper> <numbers> <special characters>
 
 length: integer - total number of characters
