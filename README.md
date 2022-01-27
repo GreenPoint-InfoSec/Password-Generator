@@ -1,6 +1,6 @@
 # Password-Generator
 
-  python3 passwordGen.py \<length\> \<amount\> \<lower\> \<upper\> \<numbers\> \<special characters\>
+    python3 passwordGen.py <length> <amount> <lower> <upper> <numbers> <special characters>
 
 length: integer - total number of characters
 
@@ -10,7 +10,10 @@ To include lower, upper, numbers, special character:
   
 - set 0 for no
 - set 1 for yes
-  
-e.g.  python3 passwordGen.py 10 5 0 1 1 0
 
-  5 passwords, 10 characters long, using upper case and numbers
+
+### Example
+    
+    python3 passwordGen.py 10 5 0 1 1 0
+
+5 passwords, 10 characters long, using upper case and numbers
