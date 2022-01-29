@@ -4,3 +4,4 @@ Python/lib
 Python/lib64
 Python/include
 Python/pyvenv.cfg
+.vscode
